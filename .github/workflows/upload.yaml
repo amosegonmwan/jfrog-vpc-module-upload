@@ -3,7 +3,7 @@ name: Upload
 on:
   push:
     branches:
-      - main
+      - main 
 
 env:
   JFROG_NAMESPACE: "cloudops"
